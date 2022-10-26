@@ -1,4 +1,4 @@
-
+[![MasterHead](https://github.com/shivpalyadavv/shivpalyadavv/blob/main/download%20(1).png)]
 <h1 align="center">Hi 👋, I'm Shivpal Yadav</h1>
 <h3 align="center">A passionate Software Engineer cum Data Management Student. from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivpalyadavv&show_icons=true&locale=en" alt="shivpalyadavv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivpalyadavv&" alt="shivpalyadavv" /></p>
+
 
