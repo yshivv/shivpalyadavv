@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shivpal Yadav</h1>
-<h3 align="center">A passionate Software Engineer cum Data Science Student. from India</h3>
+<h3 align="center">A passionate Software Engineer cum Data Management Student. from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 I’m currently learning **ML, SQL, IBM SPSS, Excel, Python, Data Collection, its Visualization and Interpretation of it.**
+- 🌱 I’m currently learning **ML, SQL, IBM SPSS, Excel, Python, Data Collection, Visualization and Interpretation of it.**
 
 - 👨‍💻 Resume [https://docs.google.com/document/d/10Dfi0OkiJZvg_j-MlmwuPxfxDo5WazIjLKiThnIdcRg/edit?usp=sharing](https://docs.google.com/document/d/10Dfi0OkiJZvg_j-MlmwuPxfxDo5WazIjLKiThnIdcRg/edit?usp=sharing)
 
